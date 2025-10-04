@@ -1,7 +1,7 @@
-# **RucRut - Intelligent Recruitment Optimization System**
+# **SmartHire - Intelligent Recruitment Optimization System**
 
 ## **Overview**
-RucRut is an advanced AI-powered recruitment system designed to enhance and streamline the hiring process for both **job providers** and **candidates**. The platform leverages cutting-edge **Natural Language Processing (NLP)** and **AI models** to generate tailored interview questions based on the candidate’s CV and job requirements, automatically evaluate their responses, and provide comprehensive feedback.
+SmartHire is an advanced AI-powered recruitment system designed to enhance and streamline the hiring process for both **job providers** and **candidates**. The platform leverages cutting-edge **Natural Language Processing (NLP)** and **AI models** to generate tailored interview questions based on the candidate’s CV and job requirements, automatically evaluate their responses, and provide comprehensive feedback.
 
 This system is built using **Flask**, **SQLAlchemy**, **MongoDB**, and **Hugging Face's NLP models**, with a focus on offering efficient, bias-reducing, and personalized recruitment experiences.
 
@@ -99,23 +99,12 @@ To set up the RucRut application locally, follow these steps:
 
 ## **Contributing**
 
-We welcome contributions to improve the functionality of RucRut. If you'd like to contribute, please:
+We welcome contributions to improve the functionality of SmartHire. If you'd like to contribute, please:
 
 1. Fork the repository.
 2. Create a new branch for your feature/bug fix.
 3. Submit a pull request.
 
----
 
-## **License**
 
-This project is licensed under the **3DSF License**.
 
----
-
-## **Contact**
-
-For any inquiries, you can reach out to the developers:
-
-- **Omar NOUIH** - [Email](omarnouih@gmail.com)
-- **Salma SAHL** - [Email](sahlsalma56@gmail.com)
